@@ -1,0 +1,32 @@
+{
+    "MF": {
+        "Name": "Makrophagen",
+        "Art": "Immunzelle, Riesenfresszelle",
+        "Medium" : "RPMI-1640 oder DMEM mit 10% FBS, 1% Penicillin/Streptomycin",
+        "Zellgrösse": "10-30 Mikrometer Durchmesser",
+        "Inkubationsbedingungen": "Feuchter Inkubator bei 37°C und 5% CO2",
+        "Pfad_zum_Bild": "./Zählkammer_L4.jpg",
+        "Eingabefelder": 4
+    },
+
+    "Ery": {
+        "Name": "Erythrozyten",
+        "Art": "rote Blutkörperchen",
+        "Medium" : "Kein Medium notwendig, Isotone Kochsalz-Lösung 0,9 %",
+        "Zellgrösse": "6-8 Mikrometer Durchmesser",
+        "Inkubationsbedingungen": "keine Inkubation, Lagerung bei +2 bis +6 °C (Haltbarkeit: 28 – 49 Tage, je nach verwendetem Stabilisator) ",
+        "Pfad_zum_Bild": "./Zählkammer_Improved.jpg",
+        "Eingabefelder": 5
+    },
+
+    "HEK": {
+        "Name": "Human embryonic Kidney cells (HEK)",
+        "Art": "Adherente Monoschichtig",
+        "Medium": "Dulbecco's Modified Eagle Medium (DMEM) oder Eagle's Minimum Essential Medium (EMEM) mit fötalem Kälberserum (FBS) oder anderen Wachstumsfaktoren",
+        "Zellgrösse": "10-30 Mikrometer Durchmesser",
+        "Inkubationsbedingungen": "Feuchter Inkubator bei 37°C und 5% CO2",
+        "Pfad_zum_Bild": "./Zählkammer_L4.jpg",
+        "Eingabefelder": 5
+    }
+
+}
